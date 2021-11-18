@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576712/img_heroes/marvel-hawkeye_xea2en.jpg",
+      "nombre": "Carne",
+      "descripcion": "producto 1"
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576712/img_heroes/marvel-hawkeye_xea2en.jpg",
+      "nombre": "Sopa",
+      "descripcion": "producto 2"
+    },
+    {
+      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1636908679/e4u104evibx7qjo4gpiq.png",
+      "nombre": "Legumbre",
+      "descripcion": "Prueba Modificar ",
+      "id": 3
+    }
+  ]
+}
